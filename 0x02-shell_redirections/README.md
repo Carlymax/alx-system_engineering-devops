@@ -1,2 +1,1 @@
-#!/bin/bash
-Redirections
+Deleted a readme and created this
